@@ -13,6 +13,7 @@ On-premise: Hashicorp services (Packer, Vagrant)      Cloud: AWS (EC2, VPC, S3, 
 
 • Strong analytical skills & proactive approach to system design & performance optimization.  
 
+![DevOps](https://img.shields.io/badge/DevOps-Yellow?style=for-the-badge&labelColor=black&color=FFD700)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -21,3 +22,6 @@ On-premise: Hashicorp services (Packer, Vagrant)      Cloud: AWS (EC2, VPC, S3, 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-Green?style=for-the-badge&labelColor=black&color=32CD32)
+![Linux](https://img.shields.io/badge/Linux-Red?style=for-the-badge&labelColor=black&color=FF4500)
+
