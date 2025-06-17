@@ -13,3 +13,5 @@ On-premise: Hashicorp services (Packer, Vagrant)      Cloud: AWS (EC2, VPC, S3, 
 
 • Strong analytical skills & proactive approach to system design & performance optimization.  
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
